@@ -1,0 +1,31 @@
+_repo: '---_24228'
+_version: 0.1.0
+alternative_title:
+- Lie Nu Chuan
+- Lie nü zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Liu, Xiang
+    alias: 劉向
+    gutenberg_agent_id: '2424'
+    url: http://www.gutenberg.org/2009/agents/2424
+    wikipedia: http://zh.wikipedia.org/wiki/%E5%88%98%E5%90%91
+description: ''
+gutenberg_issued: '2008-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24228'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'China -- Social life and customs'
+- !lcsh 'Women -- China -- Biography'
+- !lcc 'CT'
+- !lcsh 'Women -- China -- Conduct of life'
+title: 列女傳
+url: http://www.gutenberg.org/ebooks/24228
